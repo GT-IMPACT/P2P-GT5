@@ -53,7 +53,7 @@ configurations {
 
 dependencies {
 	compileCommon 'org.ultramine.core:ultramine_core-1.7.10:0.1.0'
-	compileCommon files('lib/appliedenergistics2-rv3-alpha-0-dev.jar')
+	compileCommon files('lib/appliedenergistics2-rv3-impact-beta-30.jar')
 	compileCommon files('lib/gregtech-5.09.34.62-impact-dev.jar')
 	compileCommon "net.industrial-craft:industrialcraft-2:2.2.717-experimental:dev"
 	compileCommon "net.industrial-craft:industrialcraft-2:2.2.717-experimental:dev"
